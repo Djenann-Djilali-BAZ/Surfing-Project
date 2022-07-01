@@ -14,7 +14,7 @@
 
     .jumbotron{
         height: 500px;
-        background-image: url("/Surf.jpg");
+        background-image: url("https://images.pexels.com/photos/1549180/pexels-photo-1549180.jpeg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
